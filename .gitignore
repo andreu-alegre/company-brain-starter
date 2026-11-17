@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+__pycache__/
+.venv/
+node_modules/
+.claude/settings.local.json
+.codex/
+/MY_BRAIN.md
+/my-private-brain/
+/local-private/
+/exports/
+*.zip
